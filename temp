@@ -1,0 +1,4 @@
+Enter the 2x2 key matrix (4 integers, space-separated): 2 3 3 6
+Enter the plaintext (uppercase letters only): ATTACK
+Encrypted data: FKMFIO
+Decrypted data: ATTACK
